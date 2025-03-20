@@ -2,32 +2,38 @@
 
 # Project Title
 
-> A short description about the project and/or client.
+This project is a simple user eligibility checker.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
 The things you need before installing the software.
 
-- You need this
-- And you need this
-- Oh, and don't forget this
+- Git
+- Visual Studio Code
+- Node.js (npm install)
 
 ### Installation
 
-A step-by-step guide that will tell you how to get the development environment up and running.
+Clone the repository to your local machine
+ git clone <https...>
 
 
 ## Usage
 
-A few examples of useful commands and/or tasks.
+This project includes different features
+Feature-A
+Feature-B
+Feature-C
 
 ### Branches
 
-- **Main**: The production-ready branch where the stable code resides.
-- **Feature**: Used to develop new features.
-- **Bugfix**: For fixing bugs or issues.
-- **Etc...**: Any additional branches your team uses for various purposes.
+Main: The production-ready branch.
+Develop: The branch where new features and bug fixes are merged for testing.
+Feature-A: New feature ...
+Feature-B: New feature ...
+Feature-C: New feature ...
+

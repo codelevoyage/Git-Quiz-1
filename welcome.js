@@ -5,3 +5,6 @@ console.log("=".repeat(35));
 console.log("\n");
 const userName = verifyName(username);
 console.log(`Hello ${userName}!\n`);
+
+import { validateAge } from "./validateAge.js";
+const age = validateAge(age);
